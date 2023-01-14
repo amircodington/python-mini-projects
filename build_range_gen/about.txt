@@ -1,0 +1,1 @@
+This script is about building a range generator function and learning, how this function works under the hood.
